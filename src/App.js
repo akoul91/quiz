@@ -1,5 +1,5 @@
 import React from 'react';
-import { useQuery } from 'react-query';
+//import { useQuery } from 'react-query';
 import fetchPosts from './components/FetchApi';
 import './App.css';
 import Game from "./components/Game"
@@ -84,7 +84,7 @@ function App(props) {
           </div>
           </nav>
           
-           <h1>Quizzical</h1>
+           <h1>Quizzyy</h1>
            <form>
             <label htmlFor='difficulty'>Select difficulty</label>
             <br />
